@@ -128,7 +128,7 @@ for n in range(0,len(mud)):
 #  5: mud.loc[5,'ShortName'], 6:mud.loc[6,'ShortName'], 7: mud.loc[7,'ShortName'],8: mud.loc[8,'ShortName'], 9: mud.loc[9,'ShortName'], 10: mud.loc[10,'ShortName'], 11:mud.loc[11,'ShortName'], 12:mud.loc[12,'ShortName'],
 #   13: mud.loc[13,'ShortName'], 14:mud.loc[14,'ShortName']}
 
-fig = plt.figure(1,figsize=(13,13))
+fig = plt.figure(1,figsize=(13,10))
 
 # font_path = 'Lato-Regular.ttf'
 
