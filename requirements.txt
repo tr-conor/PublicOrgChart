@@ -1,6 +1,6 @@
 streamlit
 networkx
-matplotlib.pyplot
+matplotlib
 pandas
 pyodbc
 numpy
