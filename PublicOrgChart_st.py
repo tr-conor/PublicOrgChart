@@ -141,7 +141,7 @@ plt.rcParams.update({'font.size':7})
 
 nx.draw_networkx(G, pos = pos, labels = labels, arrows = True,
  node_shape = "s", node_color =  'white' #colours
-            ,node_size = 1000 ,edge_color = 'black',font_size = 11,font_color = 'black',font_family = 'sans-serif')
+            ,node_size = 1000 ,edge_color = 'black',font_size = 8,font_color = 'black',font_family = 'sans-serif')
 
 # nx.draw_networkx_edge_labels(G, pos = pos, edge_labels={},
 #                              font_color='red',font_size=5)
