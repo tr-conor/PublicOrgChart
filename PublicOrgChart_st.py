@@ -46,7 +46,7 @@ st.markdown("<font color=#0e9655>TransferRoom</font>", unsafe_allow_html=True)
 st.title("Club Organisation Chart Generation")
 
 # st.write(st.experimental_user['email'])
-email = st.experimental_user['email']
+# email = st.experimental_user['email']
 
 squad = st.selectbox(
      'Select Squad',
